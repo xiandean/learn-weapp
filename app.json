@@ -1,6 +1,17 @@
 {
   "pages":[
+    "pages/component/pages/button/button",
+
+    "pages/component/pages/progress/progress",
+    "pages/component/pages/icon/icon",
+    "pages/component/pages/text/text",
+
+    "pages/component/pages/swiper/swiper",
+    "pages/component/pages/scroll-view/scroll-view",
+    "pages/component/pages/view/view",
+
     "pages/component/index",
+
     "pages/API/index"
   ],
   "window":{
@@ -33,5 +44,5 @@
     "uploadFile": 10000,
     "downloadFile": 10000
   },
-  "debug": true
+  "debug": false
 }

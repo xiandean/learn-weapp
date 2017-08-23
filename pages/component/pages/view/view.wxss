@@ -1,0 +1,18 @@
+/* pages/component/pages/view/view.wxss */
+.flex-wrap {
+  margin-top: 60rpx;
+  display: flex;
+}
+.flex-wrap-V {
+  flex-direction: column;
+}
+.flex-item {
+  width: 200rpx;
+  height: 300rpx;
+  font-size: 26rpx;
+}
+.flex-item-V {
+  margin: 0 auto;
+  width: 300rpx;
+  height: 200rpx;
+}
