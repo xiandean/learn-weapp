@@ -1,0 +1,11 @@
+<block wx:if="{{!showLoading}}">
+  <scroll-view style="height: 100%" scroll-y="true" class="container film-list">
+    <block wx:for-items="{{films}}" wx:for-item="film">
+      <view class="film-item">
+        <view class="film-image">
+          <image src="{{film.images.medium}}"></image>
+        </view>
+      </view>
+    </block>
+  </scroll-view>
+</block>
