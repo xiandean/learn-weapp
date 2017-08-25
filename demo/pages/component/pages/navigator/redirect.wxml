@@ -1,0 +1,8 @@
+<!--pages/component/pages/navigator/redirect.wxml-->
+<import src="../../../common/head.wxml" />
+<import src="../../../common/foot.wxml" />
+
+<view class="container">
+  <template is="head" data="{{title: '当前页'}}"/>
+</view>
+

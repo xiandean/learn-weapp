@@ -1,0 +1,7 @@
+/* pages/API/pages/scan-code/scan-code.wxss */
+@import "../../../common/lib/weui.wxss";
+
+.weui-cell__bd{
+  min-height: 48rpx;
+  word-break: break-all;
+}

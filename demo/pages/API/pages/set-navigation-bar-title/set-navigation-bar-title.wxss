@@ -1,0 +1,6 @@
+/* pages/API/pages/set-navigation-bar-title/set-navigation-bar-title.wxss */
+@import "../../../common/lib/weui.wxss";
+
+.weui-label{
+  width: 5em;
+}
